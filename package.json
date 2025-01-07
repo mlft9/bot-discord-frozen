@@ -1,0 +1,18 @@
+{
+  "name": "bot-discord",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matheo",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "discord-html-transcripts": "^3.2.0",
+    "discord.js": "14.16.3",
+    "dotenv": "16.4.5",
+    "sourcebin_js": "^0.0.3-ignore"
+  }
+}
